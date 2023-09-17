@@ -7,7 +7,7 @@
 ###pyqt5==5.15.4
 ========================================================================================================================
 ###data is the BioRE data set, which includes Drug-Disease, Drug-Target, Target-Disease, and Target-Pathway.
-###BioRE address is packaged to: [https://github.com/Lindamansen/MRNDR_Data](https://github.com/Lindamansen/MRNDR_Data)
+###BioRE address is packaged to: [https://github.com/Lindamansen/BioRE_dataset](https://github.com/Lindamansen/BioRE_dataset)
 #####The code has been packaged to:[https://github.com/Lindamansen/MRNDR_Code](https://github.com/Lindamansen/MRNDR_Code)
 ========================================================================================================================
 ###1.Train is the code for training the model, and you can directly run the train.py in it,
@@ -23,6 +23,6 @@
 ###In addition to data, the data folder also contains code solutions for rare recommended methods.
 ========================================================================================================================
 ###
-#####For other questions, please leave a message to the email address£º[mafeng21331@foxmail.com](mafeng21331@foxmail.com)
+#####For other questions, please leave a message to the email addressÂ£Âº[mafeng21331@foxmail.com](mafeng21331@foxmail.com)
 ###
 ========================================================================================================================
