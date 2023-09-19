@@ -8,7 +8,7 @@ MRNDR(Multi-head attention-based Recommendation Network for Drug Repurposing)
 
 |Name|URL|
 |----|----|
-|BioRE dataset|[link](https://github.com/Lindamansen/BioRE_dataset))|
+|BioRE dataset|[link](https://github.com/Lindamansen/BioRE_dataset)|
 |MRNDR model|[link](https://github.com/Lindamansen/MRNDR_Code)|
 
 * BioRE
