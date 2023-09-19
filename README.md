@@ -16,9 +16,9 @@ MRNDR(Multi-head attention-based Recommendation Network for Drug Repurposing)
 data is the BioRE data set, which includes Drug-Disease, Drug-Target, Target-Disease, and Target-Pathway.
 ```
 
-* 1. Train is the code for training the model, and you can directly run the train.py in it,
-* 2. The recommended potential drug system is Recommended system.py,
-* 3. The front end is front end.py, which displays recommended drugs and diseases.
+* Train is the code for training the model, and you can directly run the train.py in it,
+* The recommended potential drug system is Recommended system.py,
+* The front end is front end.py, which displays recommended drugs and diseases.
 
 ``` 
 Data processing for dataset.py
